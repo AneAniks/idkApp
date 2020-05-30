@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private static Retrofit retrofit = null;
     private RecyclerView recyclerView = null;
     private MovieAdapter moviesAdapter;
-    private final static String API_KEY = "insert api key from themoviedb.org"; 
+    private final static String API_KEY = "8874733b7f97be9de7619dfe3b96e8d0";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
